@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8361" started-at="2019-09-14T19:28:40Z" finished-at="2019-09-14T19:28:48Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8361" started-at="2019-09-14T19:28:40Z" finished-at="2019-09-14T19:28:48Z">
+      <class name="selenium.NewTest">
+        <test-method status="PASS" signature="first()[pri:0, instance:selenium.NewTest@21a06946]" name="first" is-config="true" duration-ms="5568" started-at="2019-09-14T14:28:40Z" finished-at="2019-09-14T14:28:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="logon()[pri:0, instance:selenium.NewTest@21a06946]" name="logon" is-config="true" duration-ms="2212" started-at="2019-09-14T14:28:45Z" finished-at="2019-09-14T14:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logon -->
+        <test-method status="PASS" signature="openNewAccount()[pri:1, instance:selenium.NewTest@21a06946]" name="openNewAccount" duration-ms="570" started-at="2019-09-14T14:28:48Z" finished-at="2019-09-14T14:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openNewAccount -->
+      </class> <!-- selenium.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

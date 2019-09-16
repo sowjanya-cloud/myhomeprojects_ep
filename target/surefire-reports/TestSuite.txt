@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 9.388 sec <<< FAILURE!
+openNewAccount(selenium.NewTest)  Time elapsed: 0.807 sec  <<< FAILURE!
+java.lang.AssertionError: expected result is not actual result expected:<ParaBank | Open Account> but was:<ParaBank | Open Account1>
+	at org.testng.AssertJUnit.assertEquals(AssertJUnit.java:101)
+	at selenium.NewTest.openNewAccount(NewTest.java:63)
+
